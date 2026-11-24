@@ -2,9 +2,9 @@
 
 # Alondra1 for iPhone (iOS)
 
-[![ci](https://github.com/nikita4sea/alondra1-iphone/actions/workflows/ci.yml/badge.svg)](https://github.com/nikita4sea/alondra1-iphone/actions/workflows/ci.yml)
+[![ci](https://github.com/alondrauno/alondra1-iphone/actions/workflows/ci.yml/badge.svg)](https://github.com/alondrauno/alondra1-iphone/actions/workflows/ci.yml)
 
-Planned iPhone (iOS) client of Alondra1 ([spec §11](https://github.com/nikita4sea/alondra1-backend/blob/main/docs/BACKEND_SPEC.md#11-client-requirements)). **Nothing is implemented yet.**
+Planned iPhone (iOS) client of Alondra1 ([spec §11](https://github.com/alondrauno/alondra1-backend/blob/main/docs/BACKEND_SPEC.md#11-client-requirements)). **Nothing is implemented yet.**
 
 ## Scope
 
@@ -28,7 +28,7 @@ The [`ci`](.github/workflows/ci.yml) workflow checks Markdown links and scans fo
 
 ## Related repositories
 
-[alondra1-backend](https://github.com/nikita4sea/alondra1-backend) (cloud API and contract) · [alondra1-windows](https://github.com/nikita4sea/alondra1-windows) (reference client) · [alondra1-www](https://github.com/nikita4sea/alondra1-www)
+[alondra1-backend](https://github.com/alondrauno/alondra1-backend) (cloud API and contract) · [alondra1-windows](https://github.com/alondrauno/alondra1-windows) (reference client) · [alondra1-www](https://github.com/alondrauno/alondra1-www)
 
 ## License
 
